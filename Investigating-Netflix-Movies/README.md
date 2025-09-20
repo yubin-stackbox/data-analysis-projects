@@ -4,23 +4,23 @@
 
 ## 📌 Project Overview
 This project explores Netflix movies to uncover patterns in movie durations and genres, focusing on releases from the 1990s.  
-The analysis is based on the dataset provided by [DataCamp](https://www.datacamp.com/) as part of their *Investigating Netflix Movies* guided project.  
+You can view a polished version of the analysis with rewritten code and visualisations here: [Notion write-up](https://clean-hat-00e.notion.site/Investigating-Netflix-Movies-271d5d617ff780e6a387ca5da147cd24?source=copy_link)
 
 <br>
 
-## ⚙️ Setup Instructions
-1. Install [VS Code](https://code.visualstudio.com/) and [Python](https://www.python.org/).  
-2. Install extensions in VS Code:
-   - Python (by Microsoft)
-   - Jupyter (by Microsoft)  
-3. Create a Jupyter Notebook file (e.g., `notebooks/netflix_analysis.ipynb`).  
+## 🔍 Key Insights
+- Most frequent movie duration in the 1990s ≈ **100 minutes**  
+- Number of short action movies (< 90 min) in the 1990s = **7**  
 
-⚠️ Note: If get `SyntaxError: invalid syntax` when mixing `.py` and `.ipynb`, type `exit()` in the terminal.  
+![Duration Histogram](duration_histogram.png)
 
 <br>
 
-## 📦 Install Packages
-Run once in the kernel:
+## 🚀 Tools Used
+- Python (pandas, numpy, matplotlib)
+- Jupyter Notebook
 
-```bash
-pip install numpy matplotlib pandas
+<br>
+
+## 📖 References
+- Dataset: Provided by [DataCamp](https://www.datacamp.com/) for educational purposes.
