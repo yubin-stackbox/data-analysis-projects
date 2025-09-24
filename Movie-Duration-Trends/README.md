@@ -16,7 +16,8 @@ You can view a polished version of the analysis with rewritten code and visualis
 - At the begining of the business, the average durations were noticeably **shorter**(~80–90 minutes).
 - Over time, the average duration of movies Netflix added **increased slightly** (closer to ~100–110 minutes).
 
-<img width="1005" height="626" alt="image" src="https://github.com/user-attachments/assets/9900b598-9e6f-4dd2-b250-eb6b4884a31b" />
+![Duration Trends](https://github.com/yubin-stackbox/data-analysis-projects/blob/main/Movie-Duration-Trends/duration_trends.png)
+
 
 <br>
 
