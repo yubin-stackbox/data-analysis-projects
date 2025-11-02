@@ -25,10 +25,13 @@ Example outputs include:
 <br>
 
 ## 💼 Business Insights & Strategic Recommendations examples
-- **Top Performing Countries**🌍: UK, EIRE, Netherlands, Germany, and France<br>
-  Strategic Recommendation: Focus marketing and inventory efforts on high-performing regions.
-- **Monthly Sales Trends**🗓️<br>
-  Strategic Recommendation: Prepare inventory and logistics for peak period; Oct, Nov, and Dec.
+### 📈 Focused Investment in High-Performing Regions
+- **Action:** **Concentrate 70% of the marketing budget** on the 5 key countries (UK, EIRE/Netherlands/Germany/France).
+- **Goal:** Defend the current **95% revenue share** while securing additional growth momentum in these markets.
+
+### 📦 Inventory and Logistics Optimisation
+- **Action:** Prepare for the **Peak Season (October–December)** by increasing core product inventory levels **by over 60% of normal stock** by the end of September.
+- **Goal:** Manage the potential revenue loss rate due to stock-outs to **under 2%.**
 
 <br>
 
