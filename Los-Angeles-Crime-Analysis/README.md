@@ -15,7 +15,10 @@ By exploring patterns in time (day vs. night, weekday vs. weekend) and location 
 - Analysis of **victim age groups** shows varying vulnerability across demographics.  
 - The **“Number of Victims based on Age”** plot highlights that certain age ranges are more frequently targeted.  
 
-![Crime Trends Visualization](crime_trends.png)
+<div align="center">
+  <img src="Number-of-Crimes-Every-Hour.png" alt="Number of Crimes Every Hour" width="500"/>
+  <img src="Number-of-Victims-based-on-Age.png" alt="Number of Victims based on Age" width="500"/>
+</div>
 
 <br>
 
